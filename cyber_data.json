@@ -1,0 +1,27 @@
+{
+    "responses": {
+        "phishing": "Phishing is a cyber attack where attackers trick users into giving personal information by pretending to be trusted entities.",
+        "malware": "Malware is malicious software designed to damage, steal, or control your system.",
+        "ransomware": "Ransomware locks your files and demands payment for release.",
+        "firewall": "A firewall monitors and controls incoming and outgoing network traffic based on security rules.",
+        "ddos": "A DDoS attack floods a server with traffic, making it unavailable to users.",
+        "sql injection": "SQL Injection is an attack where malicious SQL code is inserted into database queries.",
+        "brute force": "A brute force attack tries multiple password combinations to gain access.",
+        "zero day": "A Zero-Day attack exploits unknown vulnerabilities before developers fix them.",
+        "social engineering": "Social engineering manipulates people into revealing confidential information.",
+        "vpn": "A VPN encrypts your connection and hides your IP address for private browsing.",
+        "2fa": "Two-factor authentication adds an extra layer of login security by requiring a second verification step.",
+        "password": "Use strong passwords with at least 12 characters, symbols, numbers, and mixed case letters.",
+        "encryption": "Encryption protects data by converting it into unreadable text without a key.",
+        "cyber attack": "A cyber attack is any attempt to damage, steal or gain unauthorized access to systems or data.",
+        "incident response": "Incident response is the process of identifying, managing, and recovering from security breaches.",
+        "pentesting": "Penetration Testing simulates attacks to find and fix vulnerabilities.",
+        "spyware": "Spyware secretly monitors your activity and sends data to attackers.",
+        "botnet": "A botnet is a network of infected computers controlled by attackers.",
+        "trojan": "A Trojan disguises itself as legitimate software to trick users into installing it.",
+        "backdoor": "A backdoor bypasses authentication and allows unauthorized access.",
+        "identity theft": "Identity theft occurs when attackers steal your personal information to commit fraud.",
+        "cyber hygiene": "Cyber hygiene means using safe digital practices like strong passwords, updates, and backups.",
+        "cloud security": "Cloud security protects cloud-stored data using firewalls, encryption, and IAM policies."
+    }
+}
